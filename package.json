@@ -1,0 +1,28 @@
+{
+  "name": "qstore",
+  "version": "1.0.0",
+  "description": "Market data recorder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atemerev/qstore.git"
+  },
+  "keywords": [
+    "trading",
+    "marketdata",
+    "quotes",
+    "cryptocurrency"
+  ],
+  "author": "Alexander Temerev",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/atemerev/qstore/issues"
+  },
+  "homepage": "https://github.com/atemerev/qstore#readme",
+  "dependencies": {
+    "ccxt": "^1.14.224"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "dataDir": "./data",
+  "symbols": {
+    "BTC/USD": ["binance", "gdax", "bittrex"],
+    "ETH/USD": ["gdax", "bitmex"],
+    "WAVES/BTC": ["bittrex", "binance"]
+  },
+  "delay": 200
+}
